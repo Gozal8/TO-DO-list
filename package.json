@@ -1,0 +1,21 @@
+{
+  "name": "2-oy-",
+  "version": "1.0.0",
+  "main": "1-dars.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon server.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^1.7.2",
+    "dotenv": "^16.4.5"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.4"
+  },
+  "description": ""
+}
